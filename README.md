@@ -6,3 +6,5 @@ Eit er eksempel er også laga med ein puls som er lik 1 i midten og 0 alle andre
 Under ligg ein animasjon av eksempelet:
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](bolgeligning.gif)
+
+Laga av Eivind Lillefosse
